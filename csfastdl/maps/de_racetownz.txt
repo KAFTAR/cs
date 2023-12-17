@@ -1,0 +1,19 @@
+-------------------------------------------
+STAND UP WHILE DRIVING!!
+-------------------------------------------
+T and CT have to make their way in to the small city as fast as possible. 
+T's goal is to bomb one of the following places in the city: the park, 
+the embassy or a cinema (the embassy and the cinema are at the same place more or less). 
+And of course the CTs have to prevent this to all costs.
+
+Each team has a 8 vans and can choose to take a ride through the countryside or to 
+go underground by foot to reach the town.
+
+Usuable items in the map:
+16 Cars
+2 AWPs
+1 Elevator
+2 Telephone Boxes
+1 radio with on/off music (Guthrie Govan - Waves)
+
+<Map design by doggybag71>

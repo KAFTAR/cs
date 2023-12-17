@@ -1,0 +1,14 @@
+//overview description file for as_coast.bsp
+
+global
+{
+	ZOOM	0.91 
+	ORIGIN	-352	-352	1255
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/as_coast.tga"
+	HEIGHT	-51 
+} 
