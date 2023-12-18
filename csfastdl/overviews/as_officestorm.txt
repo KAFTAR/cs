@@ -1,0 +1,14 @@
+// overview description file for as_officestorm.bsp
+
+global 
+{
+	ZOOM	2.18
+	ORIGIN	71.94		-361.13		-1344.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/as_officestorm.bmp"
+	HEIGHT	-1344.00
+}

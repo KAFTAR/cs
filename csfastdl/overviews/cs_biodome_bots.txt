@@ -1,0 +1,14 @@
+// overview description file for cs_biodome_bots.bsp
+
+global 
+{
+	ZOOM	2.36
+	ORIGIN	222.00 	1406.00	    328.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_biodome_bots.bmp"
+	HEIGHT	-65.00
+}

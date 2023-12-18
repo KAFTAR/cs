@@ -1,0 +1,46 @@
+de_herrenberg
+Final Release
+15.03.02 , 21:25
+Txt Korrigiert von Marduk, Steeefan and Senti
+English translation Tobbit
+
+=================================================
+
+[English "Edited" Translation]
+
+The "Haerebierg" .. a quiet location 
+near Diekirch.
+
+CTs: The Terrorists will 
+destroy the "Gas Control Center" 
+around 12:00 clock. Prevent this immediately!
+
+Ts: Reveal the stolen plans
+where the gas lines to the
+avalanche risk point are located.
+Plant a bomb on one of the sites,
+the gas lines on the next surface 
+or trigger an avalanche to Diekirch.
+
+==================================================
+
+[German "Original" Translation]
+
+Der "Härebierg" .. eine ruhige Gegend in der 
+Nähe von Diekirch.
+
+CTs: Terroristen wollen
+heute gegen 12.00 Uhr das "Gas Control Center"
+wegsprengen. Verhindern Sie dies auf jeden Fall!
+
+Ts : Gestohlene Pläne zeigen,
+dass die Gasleitungen an einer
+lawinengefährdeten Stelle gebaut sind.
+Legen Sie eine Bombe an eine der Stellen,
+an denen die Gasleitungen am nächsten bei 
+der Oberfläche sind, um eine Lawine
+auf Diekirch auszulösen.
+
+===================================================
+
+map by Le12ro

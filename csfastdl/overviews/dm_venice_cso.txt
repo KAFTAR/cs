@@ -1,0 +1,14 @@
+// overview description file for dm_venice_cso.bsp
+
+global 
+{
+	ZOOM	1.02
+	ORIGIN	-88.00 	-119.13	424.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_venice_cso.bmp"
+	HEIGHT	-160.00
+}

@@ -1,0 +1,14 @@
+// overview description file for de_herrenberg.bsp
+
+global
+{
+	ZOOM	0.89
+	ORIGIN	-284 	2.50 	-16
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/de_herrenberg.bmp"
+	HEIGHT	-700
+}

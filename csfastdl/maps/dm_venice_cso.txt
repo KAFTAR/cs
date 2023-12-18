@@ -1,0 +1,14 @@
+﻿Venice - Deathmatch
+
+Map Created By: NEXON
+Texture Created By: NEXON
+Modified By: tuanpingas
+
+Italy's northern port city of Venice, with its warm sunlight and the peaceful sound of waves, was beautiful enough to allow anyone to forget the horrors of war. Survivors from throughout the world who escaped from the attack were able to spend a peaceful and leisurely time in their new home.
+
+But even that peace was momentary... Due to poor tactics from the government and military, their new home soon turned into an island from hell due to a sudden ambush caused by the terrorists. Special forces were sent out immediately to claim back the beautiful city. And with reinforcement arriving, they hope to win this war once and for all.
+
+However, the terrorists were not that dumb to just let the counter-terrorists breach in their territory like nothing. Their backup is also on the way. Now it's a matter of time before one side completely takes control of this village.
+
+- Counter-Terrorists: Eliminate the all terrorists in sights. Do not let them have higher scores than your team. Remember, there is a time limit.
+- Terrorists: Stop the counter-terrorists from overwhelming your territory. Lead your team to victory by achieving the highest score within limited time.

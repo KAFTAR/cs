@@ -1,0 +1,14 @@
+// overview description file for cs_sprouts.bsp
+
+global 
+{
+	ZOOM	1.35
+	ORIGIN	-256	640 0
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_sprouts.bmp"
+	HEIGHT	0
+}
